@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node",
+    "build": "여기에 빌드 스크립트를 등록한다"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phjpsy/npm.git"
+  },
+  "author": "psy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phjpsy/npm/issues"
+  },
+  "homepage": "https://github.com/phjpsy/npm#readme",
+  "dependencies": {
+    "react": "^16.13.0"
+  }
+}
